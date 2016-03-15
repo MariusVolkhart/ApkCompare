@@ -1,0 +1,5 @@
+*.iml
+.idea/
+target/
+actual.apk
+expected.apk
